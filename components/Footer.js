@@ -13,7 +13,7 @@ const Footer = () => (
         <List horizontal inverted divided link size="small">
           <List.Item
             as="a"
-            href="https://github.com/frkyldrm/Next-JS-Semantic-UI-React-Star-Wars-API"
+            href="https://github.com/mahambabp/starWarsApi"
             target="_blank"
           >
             <Icon name="github" /> GitHub

@@ -12,7 +12,7 @@ First, clone or download the file and install dependencies using npm install
 then run the development server:
 
 npm run dev
-# or
+ or
 yarn dev
 
 Open http://localhost:3000 with your browser to see the result.

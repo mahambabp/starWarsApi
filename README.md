@@ -2,7 +2,7 @@
 
 ## Description of Project
 
-A simple dynamic website that is created using data retrieved from the Star Wars API. The web app  displays details about the topic that the user selects on the index page.
+A simple MERN dynamic website that is created using data retrieved from the Star Wars API. The web app  displays details about the topic that the user selects on the index page.
 For example, display all the species in the Star Wars franchise.
 
 ## Local Installation
